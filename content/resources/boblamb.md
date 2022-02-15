@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Guest lecture by Robert Lamb on the United States Department of the Interior.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/f673bff3043615f861701e1b9281f6b9_boblamb.pdf
+file: /media/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/f673bff3043615f861701e1b9281f6b9_boblamb.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: boblamb.pdf
 uid: f673bff3-0436-15f8-6170-1e1b9281f6b9
