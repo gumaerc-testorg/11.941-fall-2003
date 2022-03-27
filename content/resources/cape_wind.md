@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 36146ee1-5737-b1be-ba80-44fb1b2e958a
 resourcetype: Document
 title: cape_wind.pdf
 uid: d0bfef12-3303-4d5e-bb77-0650740ae5a6

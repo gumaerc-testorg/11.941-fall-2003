@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 36146ee1-5737-b1be-ba80-44fb1b2e958a
 resourcetype: Document
 title: boblamb.pdf
 uid: f673bff3-0436-15f8-6170-1e1b9281f6b9

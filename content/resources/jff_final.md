@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a4a3015b-52f2-e7ca-c615-79f3e55dfa2e
 resourcetype: Document
 title: jff_final.pdf
 uid: 91c558e9-6ad1-e80f-d3c3-cc616673f1e8
