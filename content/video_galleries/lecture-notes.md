@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides lecture notes from selected lecture sessions and
+  sample videos from guest lecturers.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
@@ -38,7 +40,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Natural Resource Management in Rural Eastern Oregon ([PDF](/courses/urban-studies-and-planning/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/lecture-notes/nat_resrc.pdf)) (Courtesy of Bob Alverts. Used with permission.)  
+Natural Resource Management in Rural Eastern Oregon ({{% resource_link 2cb0dc8f-4c7b-e418-6e9f-e68d410cee8f "PDF" %}}) (Courtesy of Bob Alverts. Used with permission.)  
   
 Guest Participant: Robert Alverts, Science Advisor, Office of the Regional Biologist, USGS (Invited)  
   
@@ -51,7 +53,7 @@ Guest Participant: Christine Turner, Research Geologist, USGS (Invited)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Cape Wind Controversy and Wind Energy in General ([PDF](/courses/urban-studies-and-planning/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/lecture-notes/cape_wind.pdf))
+Cape Wind Controversy and Wind Energy in General ({{% resource_link d0bfef12-3303-4d5e-bb77-0650740ae5a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +62,7 @@ Cape Wind Controversy and Wind Energy in General ([PDF](/courses/urban-studies-a
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Current Status of Wind Power in General and Off Shore Wind Power in Particular ([PDF - 1.7 MB](/courses/urban-studies-and-planning/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/lecture-notes/boblamb.pdf)) (Courtesy of Robert Lamb. Used with permission.)
+Current Status of Wind Power in General and Off Shore Wind Power in Particular ({{% resource_link f673bff3-0436-15f8-6170-1e1b9281f6b9 "PDF - 1.7 MB" %}}) (Courtesy of Robert Lamb. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes
@@ -27,3 +28,6 @@ video_metadata:
 Science, Society, Technology, and the Environment: Some Connections
 
 Guest Lecturer: Wil W. Orr
+
+
+
