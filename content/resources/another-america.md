@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Another America: Concepts of Aboriginal World Views and Regional Landscapes'
 uid: 65ae2fdb-9d14-f38a-0b0c-e47bc2753a0d
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 Another America: Concepts of Aboriginal World Views and Regional Landscapes
 
 Guest Lecturer: Jhon Goes In Center
+
