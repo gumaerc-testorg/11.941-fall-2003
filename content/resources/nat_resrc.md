@@ -7,6 +7,7 @@ file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disp
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: nat_resrc.pdf
 uid: 2cb0dc8f-4c7b-e418-6e9f-e68d410cee8f
 ---
 Photograph and data slides for guest lecture by Robert Alverts, Science Advisor, Office of the Regional Biologist, USGS and Christine Turner, Research Geologist, USGS.
-

@@ -5,6 +5,7 @@ file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: science_inten.pdf
 uid: 80d7509d-c655-81ee-b95a-8fe8b9561134
 ---
 Student research paper.
-
