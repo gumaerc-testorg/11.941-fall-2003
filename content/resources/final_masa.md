@@ -2,6 +2,7 @@
 content_type: resource
 description: Student research paper.
 file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/a00f2308f2679bcdeca8acea63d486ea_final_masa.pdf
+file_size: 181698
 file_type: application/pdf
 learning_resource_types:
 - Assignments
