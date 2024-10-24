@@ -3,7 +3,7 @@ content_type: resource
 description: Photograph and data slides for guest lecture by Robert Alverts, Science
   Advisor, Office of the Regional Biologist, USGS and Christine Turner, Research Geologist,
   USGS.
-file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/2cb0dc8f4c7be4186e9fe68d410cee8f_nat_resrc.pdf
+file: /ol-ocw-studio-app/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/2cb0dc8f4c7be4186e9fe68d410cee8f_nat_resrc.pdf
 file_size: 836382
 file_type: application/pdf
 learning_resource_types:
