@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student research paper.
-file: /ol-ocw-studio-app/courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/80d7509dc65581eeb95a8fe8b9561134_science_inten.pdf
+file: /courses/11-941-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-i-fall-2003/80d7509dc65581eeb95a8fe8b9561134_science_inten.pdf
 file_size: 40990
 file_type: application/pdf
 learning_resource_types:
